@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.15
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{43B018CB-436E-4E02-AB9D-711E41830888}"
+	ProjectSection(SolutionItems) = preProject
+		DP_Ex02.docx = DP_Ex02.docx
+		Ex03 - DP.docx = Ex03 - DP.docx
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Design Patterns Facebook App", "Design Patterns Facebook App\Design Patterns Facebook App.csproj", "{A0B1657D-0BB2-4B9F-AA7B-27E2623EB1FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0B1657D-0BB2-4B9F-AA7B-27E2623EB1FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0B1657D-0BB2-4B9F-AA7B-27E2623EB1FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0B1657D-0BB2-4B9F-AA7B-27E2623EB1FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0B1657D-0BB2-4B9F-AA7B-27E2623EB1FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AD5C50A0-6FCA-438E-8242-945A80EE5262}
+	EndGlobalSection
+EndGlobal

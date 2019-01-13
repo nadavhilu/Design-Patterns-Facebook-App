@@ -1,0 +1,21 @@
+﻿{
+  "database": {
+    "connectionString": "Server = 104.236.120.156; Database = dp039525910; Uid = admin; Pwd = admin; charset=utf8;"
+  },
+  "user": {
+    "defaultUsername": "user",
+    "activeByDefault": true
+  },
+  "pagespostsfeature": {
+    "NumberOfComplainsNeededForMail": 7,
+    "AmountOfLatestPostsFromEachPage": 3,
+    "AppMain": "dpappofficialmail@gmail.com",
+    "MaximumNumberOfLatestPagesPostsElements": 50
+  },
+  "youtubepostsfeature": {
+    "MaximumNumberOfYoutubeElements": 50
+  },
+  "links": {
+    "jsonguide": "http://piotrgankiewicz.com/2016/06/06/storing-c-app-settings-with-json/"
+  }
+}
